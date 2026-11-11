@@ -42,20 +42,17 @@ module.exports.onStart = async ({ api, event }) => {
         const caption = 
 `⚡ ━Owner Info━ ⚡
 
-👑 𝖭𝖺𝗆𝖾 : 𝔐𝔯.𝔎𝔦𝔫𝔤 ☠️✌🏼
+👑 𝖭𝖺𝗆𝖾 : Su baru☠️✌🏼
 📌 𝖱𝗈𝗅𝖾 : 𝖠𝖽𝗆𝗂𝗇 / 𝖮𝗐𝗇𝖾𝗋
+🤦‍♂️ Age  : 22+
 💔 𝖡𝗂𝗈 : 𝖲𝗂𝗇𝗀𝗅𝖾 ⚡
 
 🎮 ━━ Mlbb Info ━━🎮
+☎️No.     : Fuck you 😒 
+🌍Adress. :Nepal 🇳🇵 
 
-🆔 𝖨𝖦𝖭 : 0xMr_King
-🔢 𝖨𝖖 : 2251640751 (19633)
-⚔️ 𝖬𝖺𝗍𝖼𝗁𝖾𝗌 : Played for fun 
-👍 𝖫𝗂𝗄𝖾𝗌 : Day by day Up and Uping
-🏅 𝖧𝖾𝗋𝗈𝖾𝗌 : 9
-🛡️ 𝖲𝗊𝗎𝖺𝖽 : Not in a squad
 
-⚡ ━━━━━━━━━━━━━━━━━━━━ ⚡`;
+ ⚡ ━━━━━━━━━━━━━━━━━━━━ ⚡`;
 
         if (fileId) {
             const downloadUrl = `https://docs.google.com/uc?export=download&id=${fileId}`;
