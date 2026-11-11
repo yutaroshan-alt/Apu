@@ -6,7 +6,7 @@ module.exports.config = {
     name: "owner",
     aliases: ["admin", "info"],
     version: "1.0.0",
-    author: "𝔐𝔯.𝔎𝔦𝔫𝔤 ☠️✌🏼",
+    author: "su baru☠️✌🏼",
     role: 0,
     category: "info",
     guide: { en: "Use {p}owner to view owner info and MLBB account details." }
@@ -48,9 +48,9 @@ module.exports.onStart = async ({ api, event }) => {
 💔 𝖡𝗂𝗈 : 𝖲𝗂𝗇𝗀𝗅𝖾 ⚡
 
 🎮 ━━ Mlbb Info ━━🎮
-☎️No.     : Fuck you 😒 
-🌍Adress. :Nepal 🇳🇵 
-
+☎️No.       : Fuck you 😒 
+🌍Adress.   :Nepal 🇳🇵 
+🗨️ Messenger:61592422092604
 
  ⚡ ━━━━━━━━━━━━━━━━━━━━ ⚡`;
 
